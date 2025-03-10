@@ -16,8 +16,7 @@ Hi there! I'm Weihang Luo, a passionate student diving deep into the fascinating
 
 If you're interested in what I'm doing or want to collaborate, feel free to reach out!
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [Weihang Luo](your-linkedin-url)
+- **Email:** xiaohang0608@gmail.com
 - **GitHub:** [Weihang Luo](https://github.com/weihang-luo)
 
 ## License
