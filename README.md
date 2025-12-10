@@ -16,7 +16,7 @@ Hi there! I'm Weihang Luo, a passionate student diving deep into the fascinating
 
 If you're interested in what I'm doing or want to collaborate, feel free to reach out!
 
-- **Email:** xiaohang0608@gmail.com
+- **Email:** luoweihang68@gmail.com
 - **GitHub:** [Weihang Luo](https://github.com/weihang-luo)
 
 ## License
@@ -25,4 +25,4 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ---
 
-Thanks for stopping by! I hope you find something interesting and inspiring here. Let's explore the limitless possibilities of technology together!
+Thanks for stopping by! I hope you find something interesting and inspiring here!
